@@ -1,6 +1,6 @@
-# 🐴BioDBS
+# 🔓Open Bioscience Databases **(**BioDBS)
 
-Es un proyecto de investigación centrado en las **bases de datos biológicas,** esto es, ****que sean útiles para investigación y enseñanza en **Ciencias Biológicas**, **Biociencias** o **Ciencias de la Vida** , tiene como objetivos reunir las bases de datos en una colección, clasificarlas y curarlas en acceso abierto y en formato amigable para que sean fáciles de encontrar. El plan es trabajar en las siguientas tareas simultáneamente:
+Es un proyecto de investigación centrado en las **bases de interes para las BIOCIENCIAS,** esto es, ****que sean útiles para investigación y enseñanza en **Ciencias Biológicas**, **Biología,** **Ciencias de la Vida y Biomedicina** , tiene como objetivos reunir las bases de datos en una colección, clasificarlas y curarlas en acceso abierto y en formato amigable para que sean fáciles de encontrar. El plan es trabajar en las siguientas tareas simultáneamente:
 
 1. La primera parte del proyecto se centra en reunir todas las bases de datos públicas, especializadas y de calidad que descubra en la Web en una colección, para esto probare las siguientes plataformas: 
     1. Tagteam la colección [🐴BioDATABASES](https://tagteam.harvard.edu/hubs/biodbs) disponible en [https://tagteam.harvard.edu/hubs/biodbs](https://tagteam.harvard.edu/hubs/biodbs)
