@@ -14,6 +14,9 @@ Es un proyecto de investigación centrado en las **bases de interes para las BIO
         1. Generar una lista con la cantidad de artículos y bases de datos en cada edición
 3. La tercera etapa consta de reunir la bibliografía en la colección de Zotero denominada [**BioDBS](https://www.zotero.org/groups/2640329/biodbs/library).**
 
+Bases de datos biológicas de México
+https://hypothes.is/search?q=tag%3A%22BiocoleccionesMX%22
+
 # Productos
 
 🐧[Tablero BioDBS](https://twitter.com/i/lists/1475461947860688896) es una lista de Twitter con las cuentas de este proyecto
