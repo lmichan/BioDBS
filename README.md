@@ -18,8 +18,11 @@ Bases de datos biológicas de México
 https://hypothes.is/search?q=tag%3A%22BiocoleccionesMX%22
 
 
-##Lista de Bases de datos que no funcionan
+## Lista de Bases de datos que no funcionan
 [https://airtable.com/shrlqUwQLixOZfg2M](https://airtable.com/shrlqUwQLixOZfg2M)
+
+  ![image](https://user-images.githubusercontent.com/17599614/162050656-37a3a0c2-8593-4942-a045-80d589953c4a.png)
+
 
 
 
