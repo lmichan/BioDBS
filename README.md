@@ -20,6 +20,14 @@ https://hypothes.is/search?q=tag%3A%22BiocoleccionesMX%22
 
 
 ## Lista de Bases de datos que no funcionan
+Hay una gran cantidad de bases de datos que ya no están vigentes, existen muchas fuentes que runen las bases de datos, en en algunos casos indican si ya no están funcionando, pero es dificil estar consultando cada fuente para identificar si las bases de datos están activas o no, por eso nos hemos dado a la tarea de reunir todas las bases de datos que no funcionan mas. APra cada base de datos hemos agregado la siguiente información.
+*Nombre
+*URL
+*Falla
+*Fuente en la que se encuentra mencionada
+*Fecha y hora en la que se consultó y registró
+
+
 [https://airtable.com/shrlqUwQLixOZfg2M](https://airtable.com/shrlqUwQLixOZfg2M)
 
   ![image](https://user-images.githubusercontent.com/17599614/162050656-37a3a0c2-8593-4942-a045-80d589953c4a.png)
