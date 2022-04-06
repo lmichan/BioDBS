@@ -1,0 +1,56 @@
+﻿Nombre,url,estatus de error,fecha de consulta,fuente,idoff,curacion nar,curdor
+miRTarBase,http://mirtarbase.mbc.nctu.edu.tw/,DNS_PROBE_FINISHED_NXDOMAIN,,https://www.oxfordjournals.org/nar/database/summary/45,3,miRTarBase,Lmichan
+EBI patent sequences,http://www.ebi.ac.uk/patentdata/nr/,404 Not Found,,https://www.oxfordjournals.org/nar/database/summary/1340,6,EBI patent sequences,Lmichan
+ACLAME - A Classification of Mobile genetic Elements,,ERR_CONNECTION_REFUSED,,https://www.oxfordjournals.org/nar/database/summary/403,12,ACLAME - A Classification of Mobile genetic Elements,Lmichan
+CEGA,,502 Bad Gateway,,https://www.oxfordjournals.org/nar/database/summary/1834,14,CEGA,Lmichan
+Ciliate IES-MDS database,,ERR_CONNECTION_TIMED_OUT,,https://www.oxfordjournals.org/nar/database/summary/649,16,Ciliate IES-MDS database,Lmichan
+CORG - A database for COmparative Regulatory Genomics,,DNS_PROBE_FINISHED_NXDOMAIN,,https://www.oxfordjournals.org/nar/database/summary/337,17,CORG - A database for COmparative Regulatory Genomics,Lmichan
+DoriC,,404 Not Found,,https://www.oxfordjournals.org/nar/database/summary/1664,20,DoriC,Lmichan
+R-LoopDB,,DNS_PROBE_FINISHED_NXDOMAIN,,https://www.oxfordjournals.org/nar/database/summary/1924,42,R-LoopDB,Lmichan
+RegTransBase,,DNS_PROBE_FINISHED_NXDOMAIN,,https://www.oxfordjournals.org/nar/database/summary/947,44,RegTransBase,Lmichan
+TIGR Plant Transcript Assembly database,,404 Not Found,,https://www.oxfordjournals.org/nar/database/summary/940,51,TIGR Plant Transcript Assembly database,Lmichan
+UCbase and miRfunc,,DNS_PROBE_FINISHED_NXDOMAIN,,https://www.oxfordjournals.org/nar/database/summary/1230,54,UCbase and miRfunc,Lmichan
+UgMicroSatdb,,not available,,https://www.oxfordjournals.org/nar/database/summary/1144,56,UgMicroSatdb,Lmichan
+UTRdb/UTRsite,,ERR_CONNECTION_REFUSED,,https://www.oxfordjournals.org/nar/database/summary/252,58,UTRdb/UTRsite,Lmichan
+ECgene,,ERR_EMPTY_RESPONSE,,https://www.oxfordjournals.org/nar/database/summary/667,67,ECgene,Lmichan
+JuncDB,,ERR_CONNECTION_TIMED_OUT,,https://www.oxfordjournals.org/nar/database/summary/1835,72,JuncDB,Lmichan
+SpliceInfo,,DNS_PROBE_FINISHED_NXDOMAIN,,https://www.oxfordjournals.org/nar/database/summary/746,76,SpliceInfo,Lmichan
+AnimalTFDB,,404 Not Found,,https://www.oxfordjournals.org/nar/database/summary/1460,86,AnimalTFDB,Lmichan
+BloodChIP,,ERR_CONNECTION_REFUSED,,https://www.oxfordjournals.org/nar/database/summary/1675,88,BloodChIP,Lmichan
+cisRED,,503 Service Temporarily Unavailable,,https://www.oxfordjournals.org/nar/database/summary/805,90,cisRED,Lmichan
+DoOP - Databases of Orthologous Promoters,,ERR_CONNECTION_TIMED_OUT,,https://www.oxfordjournals.org/nar/database/summary/663,100,DoOP - Databases of Orthologous Promoters,Lmichan
+DPRP,,ERR_CONNECTION_TIMED_OUT,,https://www.oxfordjournals.org/nar/database/summary/1677,101,DPRP,Lmichan
+GenomeTraFaC,,No site is configured at this address.,,https://www.oxfordjournals.org/nar/database/summary/1036,107,GenomeTraFaC,Lmichan
+MAPPER,,404 Not Found,,https://www.oxfordjournals.org/nar/database/summary/700,116,MAPPER,Lmichan
+Plant Stress-Responsive Gene Catalog,,DNS_PROBE_FINISHED_NXDOMAIN,,https://www.oxfordjournals.org/nar/database/summary/1116,122,Plant Stress-Responsive Gene Catalog,Lmichan
+TrSDB,,404 - Page Not Found,,https://www.oxfordjournals.org/nar/database/summary/314,152,TrSDB,Lmichan
+UniPROBE,,403 Forbidden error,,https://www.oxfordjournals.org/nar/database/summary/1209,154,UniPROBE,Lmichan
+CharProtDB,,404 Not Found,,https://www.oxfordjournals.org/nar/database/summary/1468,270,CharProtDB,Lmichan
+COMBREX,,502 Bad Gateway,,https://www.oxfordjournals.org/nar/database/summary/1405,271,COMBREX,Lmichan
+EukProt,,404 - Page Not Found,,https://www.oxfordjournals.org/nar/database/summary/2103,272,EukProt,Lmichan
+PA-GOSUB,,404 Not Found,,https://www.oxfordjournals.org/nar/database/summary/714,275,PA-GOSUB,Lmichan
+eProS,,404 Not Found,,https://www.oxfordjournals.org/nar/database/summary/1602,288,eProS,Lmichan
+HHMD,,502 Bad Gateway,,https://www.oxfordjournals.org/nar/database/summary/1345,289,HHMD,Lmichan
+MP:PD,,404 Not Found,,http://proteinformatics.charite.de/mppd,295,MP:PD,Lmichan
+CentrosomeDB,,ERR_CONNECTION_REFUSED,,https://www.oxfordjournals.org/nar/database/summary/1267,306,CentrosomeDB,Lmichan
+LOCATE,,ERR_CONNECTION_REFUSED,,https://www.oxfordjournals.org/nar/database/summary/836,309,LOCATE,Lmichan
+NOPdb: Nucleolar Proteome Database,,404 Not Found,,https://www.oxfordjournals.org/nar/database/summary/706,317,NOPdb: Nucleolar Proteome Database,Lmichan
+Secreted Protein Database,,502 Bad Gateway,,https://www.oxfordjournals.org/nar/database/summary/745,323,Secreted Protein Database,Lmichan
+TMPad,,502 Bad Gateway,,https://www.oxfordjournals.org/nar/database/summary/1451,326,TMPad,Lmichan
+ValidNESs,,502 Bad Gateway,,https://www.oxfordjournals.org/nar/database/summary/1605,328,ValidNESs,Lmichan
+COMe - Co-Ordination of Metals etc.,,502 Bad Gateway,,https://www.oxfordjournals.org/nar/database/summary/438,330,COMe - Co-Ordination of Metals etc.,Lmichan
+CoPS,,404 Not Found,,https://www.oxfordjournals.org/nar/database/summary/771,331,CoPS,Lmichan
+MimoDB,,ERR_CONNECTION_REFUSED,,https://www.oxfordjournals.org/nar/database/summary/1470,340,MimoDB,Lmichan
+Minimotif Miner,,404 Not Found,,http://minimotifminer.org and mnm.engr.uconn.edu,341,Minimotif Miner,Lmichan
+PDBSite,,502 Bad Gateway,,https://www.oxfordjournals.org/nar/database/summary/717,345,PDBSite,Lmichan
+PolyQ,,502 Bad Gateway,,https://www.oxfordjournals.org/nar/database/summary/1434,349,PolyQ,Lmichan
+SitEx,,403 Forbidden error,,https://www.oxfordjournals.org/nar/database/summary/1471,355,SitEx,Lmichan
+SuperSite,,not available,,https://www.oxfordjournals.org/nar/database/summary/1196,356,SuperSite,Lmichan
+ADDA - A Domain Database,,404 Not Found,,https://www.oxfordjournals.org/nar/database/summary/622,359,ADDA - A Domain Database,Lmichan
+Benchmark,,not available,,https://www.oxfordjournals.org/nar/database/summary/978,361,Benchmark,Lmichan
+FunShift,,not available,,https://www.oxfordjournals.org/nar/database/summary/671,367,FunShift,Lmichan
+NURSA,,No es base de datos,,https://www.oxfordjournals.org/nar/database/summary/789,445,,Lmichan
+ChemBank,,Presently Unavailable,,https://www.oxfordjournals.org/nar/database/summary/1024,489,ChemBank,Lmichan
+CancerResource,,ERR_CONNECTION_TIMED_OUT,,https://www.oxfordjournals.org/nar/database/summary/1302,1230,CancerResource,Lmichan
+dbCRID,,ERR_CONNECTION_TIMED_OUT,,https://www.oxfordjournals.org/nar/database/summary/1406,1235,dbCRID,Lmichan
+dbSNP-Q,,ERR_CONNECTION_TIMED_OUT,,https://www.oxfordjournals.org/nar/database/summary/1408,1238,dbSNP-Q,Lmichan
