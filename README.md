@@ -30,7 +30,8 @@ Hay una gran cantidad de bases de datos que ya no están vigentes, existen mucha
 
 [https://airtable.com/shrlqUwQLixOZfg2M](https://airtable.com/shrlqUwQLixOZfg2M)
 
-  ![image](https://user-images.githubusercontent.com/17599614/162050656-37a3a0c2-8593-4942-a045-80d589953c4a.png)
+![image](https://user-images.githubusercontent.com/17599614/162083884-bb12b0c4-ab6b-4485-9d4b-1206bbe2ea3d.png
+
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrlqUwQLixOZfg2M?backgroundColor=teal&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
