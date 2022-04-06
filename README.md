@@ -17,6 +17,12 @@ Es un proyecto de investigación centrado en las **bases de interes para las BIO
 Bases de datos biológicas de México
 https://hypothes.is/search?q=tag%3A%22BiocoleccionesMX%22
 
+
+##Lista de Bases de datos que no funcionan
+[https://airtable.com/shrlqUwQLixOZfg2M](https://airtable.com/shrlqUwQLixOZfg2M)
+
+
+
 # Productos
 
 🐧[Tablero BioDBS](https://twitter.com/i/lists/1475461947860688896) es una lista de Twitter con las cuentas de este proyecto
