@@ -44,6 +44,7 @@ Hay una gran cantidad de bases de datos que ya no están vigentes, existen mucha
 # Productos
 
 🐧[Tablero BioDBS](https://twitter.com/i/lists/1475461947860688896) es una lista de Twitter con las cuentas de este proyecto
+📝[Anotaciones de materiales sobre bases de datos biológicas en hypothes.is](https://hypothes.is/search?q=tag%3A%22BioDBS%22)
 
 ## GitHub
 
